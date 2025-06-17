@@ -20,4 +20,4 @@ This project explored how SEM-EDS provides high-resolution imaging and elemental
 ### 📄 View Full Presentation
 The complete presentation with all diagrams, case studies, and references is available for viewing.
 
-* [**View the Full Presentation (PPTX)**](./Aniket%20Shanker%20Mishra%20MSE%20550%20HWP2.A%20(1).pptx)
+* [**View the Full Presentation (PPTX - Download)**](./Aniket%20Shanker%20Mishra%20MSE%20550%20HWP2.A%20(1).pptx)
